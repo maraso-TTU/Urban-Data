@@ -1,0 +1,77 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.4-Białowieża">
+  <identifier>sde.tar.t02_71_hoone</identifier>
+  <parentidentifier></parentidentifier>
+  <language>EST</language>
+  <type>dataset</type>
+  <title>sde.tar.t02_71_hoone</title>
+  <abstract>Hoone on katuse, siseruumi ja välispiiretega ehitis (Ehitusseadus).
+TUNNETUSKRITEERIUMID 
+1. Ei kaardistata ajutisi ja teisaldatavaid hooneid. 
+2. Kõrvalhoone on abihoone, mida ei kasutata elamiseks, mis ei ole tootmishoone ning mis ei ole avalikus kasutuses. 
+3. Tootmishoone on tootmiseks või laona kasutatav hoone, millel puudub avalik kasutus. 
+4. Tootmishoonetes paiknevaid kontoriruume ei kaardistata ühiskondliku hoonena. 
+5. Ühiskondlik hoone on avalikus kasutuses. Ühiskondlikud hooned on nt koolid, haiglad, hotellid, poed, bussijaamad jne. 
+6. Maa-alused hooneid kaardistatakse vaid siis, kui nad on iseseisvad. Maapealsete ehitiste osadeks olevaid maa-aluseid keldreid, garaaže jms, mis jäävad hoone vundamendi kontuuri sisse ei kaardistata. 
+7. Kui ühes hoones esineb mitu funktsiooni, nt korterid ja pood, siis klassifitseeritakse hoone vastavalt valdavale funktsioonile. 
+8. Hoone materjaliks määratakse fassaadil valdavalt kasutatud materjal. 
+9. Vundamendita hooneid ei kaardistata või kaardistatakse teisaldatava ehitisena.
+10. Kui hoone tüübiks määratakse Muu, täiendatakse Märkuste veerg vastava põhjendusega selle liigituse kohta.
+11. Katastriüksusepiir lõikab hoone kaheks eraldiseisvaks hooneks.
+PIIRITLUSKRITEERIUMID
+1. Individuaalelamute hoovides kaardistatakse hooned, mis on suuremad kui 10 m2, mujal suuremad kui 4 m2 ning neil hoonetel tuleb kaardistada ka hoone osad. 
+
+
+Töötati välja Tallinna Ruumiandmete Registri loomiseks
+
+Hoone on katuse, siseruumi ja välispiiretega ehitis (Ehitusseadus).TUNNETUSKRITEERIUMID 1. Ei kaardistata ajutisi ja teisaldatavaid hooneid. 2. Kõrvalhoone on abihoone, mida ei kasutata elamiseks, mis ei ole tootmishoone ning mis ei ole avalikus kasutuses. 3. Tootmishoone on tootmiseks või laona kasutatav hoone, millel puudub avalik kasutus. 4. Tootmishoonetes paiknevaid kontoriruume ei kaardistata ühiskondliku hoonena. 5. Ühiskondlik hoone on avalikus kasutuses. Ühiskondlikud hooned on nt koolid, haiglad, hotellid, poed, bussijaamad jne. 6. Maa-alused hooneid kaardistatakse vaid siis, kui nad on iseseisvad. Maapealsete ehitiste osadeks olevaid maa-aluseid keldreid, garaaže jms, mis jäävad hoone vundamendi kontuuri sisse ei kaardistata. 7. Kui ühes hoones esineb mitu funktsiooni, nt korterid ja pood, siis klassifitseeritakse hoone vastavalt valdavale funktsioonile. 8. Hoone materjaliks määratakse fassaadil valdavalt kasutatud materjal. 9. Vundamendita hooneid ei kaardistata või kaardistatakse teisaldatava ehitisena.10. Kui hoone tüübiks määratakse Muu, täiendatakse Märkuste veerg vastava põhjendusega selle liigituse kohta.11. Katastriüksusepiir lõikab hoone kaheks eraldiseisvaks hooneks.PIIRITLUSKRITEERIUMID1. Individuaalelamute hoovides kaardistatakse hooned, mis on suuremad kui 10 m2, mujal suuremad kui 4 m2 ning neil hoonetel tuleb kaardistada ka hoone osad. 
+
+Töötati välja Tallinna Ruumiandmete Registri loomiseks
+
+TUNNETUSKRITEERIUMID 1. Ei kaardistata ajutisi ja teisaldatavaid hooneid. 2. Kõrvalhoone on abihoone, mida ei kasutata elamiseks, mis ei ole tootmishoone ning mis ei ole avalikus kasutuses. 3. Tootmishoone on tootmiseks või laona kasutatav hoone, millel puudub avalik kasutus. 4. Tootmishoonetes paiknevaid kontoriruume ei kaardistata ühiskondliku hoonena. 5. Ühiskondlik hoone on avalikus kasutuses. Ühiskondlikud hooned on nt. koolid, haiglad, hotellid, poed, bussijaamad jne. 6. Maa-alused hooneid kaardistatakse vaid siis, kui nad on iseseisvad. Maapealsete ehitiste osadeks olevaid maa-aluseid keldreid, garaaze jms, mis jäävad hoone vundamendi kontuuri sisse ei kaardistata. 7. Kui ühes hoones esineb mitu funktsiooni, nt. korterid ja pood, siis klassifitseeritakse hoone vastavalt valdavale funktsioonile. 8. Hoone materjaliks määratakse fassaadil valdavalt kasutatud materjal. 9. Vundamendita hooneid ei kaardistata või kaardistatakse teisaldatava ehitisena. 10. Kui hoone tüübiks määratakse Muu, täiendeatakse Märkuste veerg vastava põhjendusega selle liigituse kohta. PIIRITLUSKRITEERIUMID 1. Individuaalelamute hoovides kaardistatakse hooned, mis on suuremad kui 10 m², mujal suuremad kui 4 m² ning neil hoonetel tuleb kaardistada ka hoone osad.</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>ehitised</keyword>
+  </keywords>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>ehitised</keyword>
+  </keywords>
+  <contact>
+    <name></name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links>
+    <link description="" format="" name="SDE Feature Class" url="file://\\TAR-LIVE\E$\tonis\loplik\main.gdb" mimeType="" type="Local Area Network" size=""/>
+  </links>
+  <fees></fees>
+  <constraints type="Limitations of use">Andmete kasutusõigused on reguleeritud Tallinna Ruumiandmete Registri põhimääruses ning Tallinna Linnaplaneerimise Ameti, kui vastutava töötleja poolt</constraints>
+  <constraints type="Access">Juurdepääsu õigused andmetele on reguleeritud Tallinna Ruumiandmete Registri põhimääruses ning Tallinna Linnaplaneerimise Ameti, kui vastutava töötleja poolt</constraints>
+  <rights>Andmete kasutusõigused on reguleeritud Tallinna Ruumiandmete Registri põhimääruses ning Tallinna Linnaplaneerimise Ameti, kui vastutava töötleja poolt</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt>PROJCRS["Estonian Coordinate System of 1997",BASEGEOGCRS["EST97",DATUM["Estonia 1997",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4180]],CONVERSION["Estonian National Grid",METHOD["Lambert Conic Conformal (2SP)",ID["EPSG",9802]],PARAMETER["Latitude of false origin",57.5175539305556,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8821]],PARAMETER["Longitude of false origin",24,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8822]],PARAMETER["Latitude of 1st standard parallel",59.3333333333333,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8823]],PARAMETER["Latitude of 2nd standard parallel",58,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8824]],PARAMETER["Easting at false origin",500000,LENGTHUNIT["metre",1],ID["EPSG",8826]],PARAMETER["Northing at false origin",6375000,LENGTHUNIT["metre",1],ID["EPSG",8827]]],CS[Cartesian,2],AXIS["northing (X)",north,ORDER[1],LENGTHUNIT["metre",1]],AXIS["easting (Y)",east,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Topographic mapping (large scale)."],AREA["Estonia - onshore and offshore."],BBOX[57.52,20.37,60,28.2]],ID["EPSG",3301]]</wkt>
+      <proj4>+proj=lcc +lat_0=57.5175539305556 +lon_0=24 +lat_1=59.3333333333333 +lat_2=58 +x_0=500000 +y_0=6375000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+      <srsid>1259</srsid>
+      <srid>3301</srid>
+      <authid>EPSG:3301</authid>
+      <description>Estonian Coordinate System of 1997</description>
+      <projectionacronym>lcc</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minx="531429.41000000003259629" maxx="552666.51000000000931323" maxy="6605689.59999999962747097" minz="0" dimensions="2" maxz="0" miny="6579314.73000000044703484" crs="EPSG:3301"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
